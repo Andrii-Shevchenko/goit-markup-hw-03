@@ -30,7 +30,7 @@ ol {
   padding-left: 0;
 }
 
-/* Header */
+/* #region Header */
 
 .header {
   border-bottom: 1px solid #e7e9fc;
@@ -104,10 +104,11 @@ ol {
 .address-contacts:focus {
   color: #404bbf;
 }
+/* #endregion Header */
 
-/* Main */
+/* #region Main */
 
-/* Hero image */
+/* #region Hero */
 
 .section-one {
   background-color: #2e2f42;
@@ -143,8 +144,8 @@ ol {
 .section-one-button:focus {
   background-color: #404bbf;
 }
-
-/* Section 2 */
+/* #endregion Hero */
+/* #region Section 2 */
 
 .section-two {
   padding: 120px 0;
@@ -184,8 +185,8 @@ ol {
 .feature-text {
   letter-spacing: 0.02em;
 }
-
-/* Section team */
+/* #endregion Section 2 */
+/* #region Section team */
 
 .section-three {
   padding: 120px 0;
@@ -233,8 +234,8 @@ ol {
   text-align: center;
   letter-spacing: 0.02em;
 }
-
-/* Section portfolio */
+/* #endregion Section team */
+/* #region Section portfolio */
 
 .section-portfolio {
   padding-top: 120px;
@@ -258,7 +259,10 @@ ol {
   border-top: none;
   margin-bottom: 8px;
 }
-/* Footer */
+/* #endregion Section portfolio */
+/* #endregion Main */
+
+/* #region Footer */
 .footer {
   padding: 100px 0;
   background: #2e2f42;
@@ -288,3 +292,4 @@ ol {
   color: #f4f4fd;
   max-width: 264px;
 }
+/* #endregion Footer */

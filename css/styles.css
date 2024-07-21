@@ -259,23 +259,21 @@ ol {
   margin-bottom: 8px;
 }
 /* Footer */
-
 .footer {
-  background-color: #2e2f42;
   padding: 100px 0;
+  background: #2e2f42;
 }
 
 .footer-logo {
   font-family: 'Raleway', sans-serif;
+  display: inline-block;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.17;
+  line-height: 1.16667;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-  margin-right: 76px;
   margin-bottom: 16px;
-  display: inline-block;
 }
 
 .footer-logo-studio {
@@ -283,6 +281,9 @@ ol {
 }
 
 .footer-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
   max-width: 264px;

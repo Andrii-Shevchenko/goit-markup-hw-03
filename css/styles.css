@@ -249,7 +249,7 @@ ol {
   row-gap: 48px;
 }
 
-..section-portfolio .section-portfolio-paragraf {
+.section-portfolio .section-portfolio-paragraf {
   width: calc((100% - 48px) / 3);
 }
 

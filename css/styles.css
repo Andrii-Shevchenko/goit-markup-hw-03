@@ -36,7 +36,7 @@ ol {
   border-bottom: 1px solid #e7e9fc;
 }
 
-.conteiner {
+.container {
   display: flex;
   width: 1158px;
   margin: 0 auto;
@@ -84,6 +84,10 @@ ol {
   color: #404bbf;
 }
 
+.address-link {
+  display: flex;
+  gap: 40px;
+}
 .address {
   font-style: normal;
   display: flex;

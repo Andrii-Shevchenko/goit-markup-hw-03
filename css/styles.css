@@ -1,3 +1,11 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
 /* #region Header */
 
 .logo {
@@ -12,9 +20,6 @@
 
 .item-text {
   font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 
@@ -31,10 +36,6 @@
 }
 
 .contacts-item {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
 }
 
 .contacts-item:hover {
@@ -59,7 +60,6 @@
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
-  letter-spacing: 0.02em;
   color: #ffffff;
 }
 
@@ -67,8 +67,6 @@
   background-color: #4d5ae5;
   font-family: 'Roboto';
   font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
   cursor: pointer;
@@ -90,15 +88,11 @@
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
-  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 
 .benefits-text {
-  font-size: 16px;
-  line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
 }
 
 /* #endregion Benefits */
@@ -113,7 +107,6 @@
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
-  letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
 }
@@ -126,15 +119,7 @@
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
-  letter-spacing: 0.02em;
   color: #2e2f42;
-}
-
-.team-name-text {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
 }
 
 /* #endregion Our team */
@@ -145,7 +130,6 @@
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
-  letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
 }
@@ -154,15 +138,7 @@
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
-  letter-spacing: 0.02em;
   color: #2e2f42;
-}
-
-.portfolio-content-text {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
 }
 
 /* #endregion Portfolio */
@@ -180,9 +156,7 @@
 }
 
 .footer-text {
-  line-height: 1.5;
   color: #f4f4fd;
-  letter-spacing: 0.02em;
 }
 
 /* #endregion Footer */

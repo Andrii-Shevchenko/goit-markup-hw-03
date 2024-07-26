@@ -138,7 +138,7 @@ a {
 
 .hero-container {
   background-color: #2e2f42;
-  width: 1440px;
+  min-width: 1440px;
   height: 600px;
 }
 
@@ -227,7 +227,7 @@ a {
 
 .team {
   background-color: #f4f4fd;
-  width: 1440px;
+  min-width: 1440px;
   height: 732px;
 }
 
@@ -334,7 +334,7 @@ a {
 
 .footer {
   background-color: #2e2f42;
-  width: 1440px;
+  min-width: 1440px;
   height: 312px;
 }
 

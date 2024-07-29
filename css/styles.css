@@ -30,6 +30,9 @@ a {
   text-decoration: none;
 }
 
+img {
+  display: block;
+}
 /* #region Header */
 
 .header {
@@ -291,13 +294,7 @@ a {
   gap: 24px;
   padding-top: 72px;
   padding-bottom: 120px;
-}
-
-.portfolio-list-part-one,
-.portfolio-list-part-two {
   display: flex;
-  gap: 24px;
-  padding-top: 48px;
 }
 
 .portfolio-item {

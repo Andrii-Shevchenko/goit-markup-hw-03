@@ -43,6 +43,9 @@ img {
   width: 1158px;
   padding: 0 15px;
   margin: 0 auto;
+}
+
+.header-container {
   display: flex;
 }
 
@@ -104,15 +107,13 @@ img {
 
 .address {
   font-style: normal;
-  margin: 0 auto;
+  margin: auto;
 }
 
 .contacts-list {
   display: flex;
   align-items: center;
   gap: 40px;
-  text-align: right;
-  margin-left: auto;
 }
 
 .contacts-item {

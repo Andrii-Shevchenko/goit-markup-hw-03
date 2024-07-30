@@ -47,6 +47,7 @@ img {
 
 .header-container {
   display: flex;
+  padding: 24px 0;
 }
 
 .nav {
@@ -67,7 +68,6 @@ img {
 
 .header-logo {
   margin-right: 76px;
-  padding: 24px 0;
 }
 
 .logo-part {
@@ -81,8 +81,6 @@ img {
 }
 
 .header-item {
-  padding-top: 24px;
-  padding-bottom: 24px;
 }
 
 .item-text {
@@ -107,6 +105,7 @@ img {
 
 .address {
   font-style: normal;
+  align-items: center;
   margin: auto;
 }
 
@@ -117,8 +116,6 @@ img {
 }
 
 .contacts-item {
-  padding-top: 24px;
-  padding-bottom: 24px;
 }
 
 .contacts-item:hover {

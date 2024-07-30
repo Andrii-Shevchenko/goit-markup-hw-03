@@ -7,9 +7,6 @@ body {
   color: #434455;
 }
 
-a,
-ul,
-ol,
 p,
 h1,
 h2,
@@ -24,6 +21,8 @@ h6 {
 ul,
 ol {
   list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 a {
@@ -67,6 +66,7 @@ img {
 
 .header-logo {
   margin-right: 76px;
+  padding: 24px 0;
 }
 
 .logo-part {
@@ -80,7 +80,6 @@ img {
 }
 
 .header-item {
-  padding: 24px 0;
 }
 
 .item-text {

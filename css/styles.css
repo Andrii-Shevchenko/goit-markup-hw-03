@@ -67,7 +67,6 @@ img {
 
 .header-logo {
   margin-right: 76px;
-  padding: 24px 0;
 }
 
 .logo-part {
@@ -78,6 +77,7 @@ img {
   display: flex;
   align-items: center;
   gap: 40px;
+  padding: 24px 0;
 }
 
 .header-item {

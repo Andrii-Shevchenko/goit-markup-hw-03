@@ -50,8 +50,6 @@ img {
   align-items: center;
   display: flex;
   margin: 0 auto;
-  padding-top: 24px;
-  padding-bottom: 24px;
 }
 
 .logo {
@@ -76,6 +74,8 @@ img {
 }
 
 .header-item {
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .item-text {

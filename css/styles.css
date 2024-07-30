@@ -52,7 +52,8 @@ img {
   margin: 0 auto;
 }
 
-.logo {
+.logo,
+.footer-logo {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -74,7 +75,8 @@ img {
 }
 
 .item {
-  padding: 24px 0;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .item-text {
@@ -326,6 +328,7 @@ img {
   font-size: 20px;
   line-height: 1.2;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 
 .portfolio-content-text {

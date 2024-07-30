@@ -70,6 +70,7 @@ img {
 .list {
   display: flex;
   align-items: center;
+  gap: 40px;
 }
 
 .item {
@@ -353,6 +354,8 @@ img {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  margin-bottom: 16px;
+  display: inline-block;
 }
 
 .footer-logo-part {

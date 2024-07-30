@@ -71,11 +71,11 @@ img {
   display: flex;
   align-items: center;
   gap: 40px;
-  padding-top: 24px;
-  padding-bottom: 24px;
 }
 
 .header-item {
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .item-text {
@@ -112,6 +112,8 @@ img {
 }
 
 .contacts-item {
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .contacts-item:hover {

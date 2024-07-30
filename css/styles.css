@@ -47,12 +47,12 @@ img {
 
 .header-container {
   display: flex;
+  align-items: center;
 }
 
 .nav {
-  align-items: center;
   display: flex;
-  margin: 0 auto;
+  align-items: center;
 }
 
 .logo {
@@ -67,6 +67,7 @@ img {
 
 .header-logo {
   margin-right: 76px;
+  padding: 24px 0;
 }
 
 .logo-part {
@@ -80,7 +81,6 @@ img {
 }
 
 .header-item {
-  padding: 24px 0;
 }
 
 .item-text {
@@ -106,7 +106,7 @@ img {
 .address {
   font-style: normal;
   align-items: center;
-  margin: auto;
+  margin-left: auto;
 }
 
 .contacts-list {

@@ -71,11 +71,11 @@ img {
   display: flex;
   align-items: center;
   gap: 40px;
-  padding-top: 24px;
-  padding-bottom: 24px;
 }
 
 .header-item {
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .item-text {
@@ -101,7 +101,6 @@ img {
 .address {
   font-style: normal;
   margin: 0 auto;
-  padding: 24px;
 }
 
 .contacts-list {

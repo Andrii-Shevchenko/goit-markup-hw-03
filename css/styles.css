@@ -15,7 +15,6 @@ h4,
 h5,
 h6 {
   margin: 0;
-  padding: 0;
 }
 
 ul,
@@ -66,6 +65,7 @@ img {
 
 .header-logo {
   margin-right: 76px;
+  padding: 24px 0;
 }
 
 .logo-part {
@@ -79,12 +79,13 @@ img {
 }
 
 .header-item {
-  padding: 24px 0;
 }
 
 .item-text {
+  display: block;
   font-weight: 500;
   color: #2e2f42;
+  padding: 24px 0;
 }
 
 .item-text:hover {
@@ -97,7 +98,6 @@ img {
 
 .address {
   font-style: normal;
-  align-items: center;
   margin-left: auto;
 }
 
@@ -107,19 +107,9 @@ img {
   gap: 40px;
 }
 
-.contacts-item {
-}
-
-.contacts-item:hover {
-  color: #404bbf;
-}
-
-.contacts-item:focus {
-  color: #404bbf;
-}
-
 .contacts-text {
-  font-family: 'Roboto', sans-serif;
+  display: block;
+  padding: 24px 0;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -127,7 +117,8 @@ img {
   color: #434455;
 }
 
-.contacts-text:hover {
+.contacts-text:hover,
+.contacts-text:focus {
   color: #404bbf;
 }
 

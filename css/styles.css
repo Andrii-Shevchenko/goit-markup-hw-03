@@ -225,6 +225,7 @@ img {
   background-color: #f4f4fd;
   min-width: 1440px;
   height: 732px;
+  padding: 120px 0;
 }
 
 .team-title {
@@ -233,7 +234,6 @@ img {
   text-align: center;
   text-transform: capitalize;
   color: #2e2f42;
-  padding-top: 137px;
   margin-bottom: 72px;
 }
 
